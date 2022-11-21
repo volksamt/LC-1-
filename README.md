@@ -23,4 +23,4 @@ Rehearse these well.
 
 <h2> Technical </h2>
 
-Lc1 is a mini touch reactive synthesizer designed as a small scale version of the much bigger light&soudn installation <a src="www.volksamt.org/menagerie.html"> |||||||| </a>
+Lc1 is a mini touch reactive synthesizer designed as a small scale version of the much bigger light&soudn installation <a href="www.volksamt.org/menagerie.html"> |||||||| </a>
