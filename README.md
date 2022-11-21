@@ -23,4 +23,6 @@ Rehearse these well.
 
 <h2> Technical </h2>
 
-Lc1 is a mini touch reactive synthesizer designed as a small scale version of the much bigger light&sound installation [||||||||](wwww.volksamt.org/menagerie.html)
+Lc1 is a mini touch reactive synthesizer designed as a small scale version of the much bigger light&sound installation |||||||| (wwww.volksamt.org/menagerie.html)
+
+It is built around a simple schmitt trigger feedback oscillator design. 
