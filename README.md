@@ -31,7 +31,7 @@ Rehearse these well.
 
 Lc1 is a mini touch reactive synthesizer designed as a small scale version of the much bigger light&sound installation |||||||| (wwww.volksamt.org/menagerie.html)
 
-It is built around a simple schmitt trigger feedback oscillator design. ![IMG_20200511_105705(1)](https://user-images.githubusercontent.com/24521356/203101623-99aaeac6-fe31-4d8a-945b-b5c041475958.jpg)
+It is built around a simple schmitt trigger feedback oscillator design. 
 
 
 ![schematic3_image](https://user-images.githubusercontent.com/24521356/203101233-6b47e50f-c8b0-43d5-854e-45942715012d.png)
